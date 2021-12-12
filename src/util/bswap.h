@@ -1,0 +1,4 @@
+#ifndef DOGWATER_BSWAP_H
+#define DOGWATER_BSWAP_H
+
+#endif //DOGWATER_BSWAP_H
